@@ -1,0 +1,10 @@
+- {name: 'aim01', uid: 5551, groups: ['splunk', 'ednawey'], comment: 'Developers', password: "{{ 'test' | password_hash('sha512') }}", shell: /bin/bash }
+- {name: 'aim02', uid: 5552, groups: ['splunk', 'ednawey'], comment: 'Developers', password: "{{ 'test' | password_hash('sha512') }}", shell: /bin/bash }
+- {name: 'aim03', uid: 5553, groups: ['splunk', 'ednawey'], comment: 'Developers', password: "{{ 'test' | password_hash('sha512') }}", shell: /bin/bash }
+- {name: 'aim04', uid: 5554, groups: ['splunk', 'ednawey'], comment: 'Developers', password: "{{ 'test' | password_hash('sha512') }}", shell: /bin/bash }
+- {name: 'aim05', uid: 5555, groups: ['splunk', 'ednawey'], comment: 'Developers', password: "{{ 'test' | password_hash('sha512') }}", shell: /bin/bash }
+- {name: 'aim06', uid: 5556, groups: ['splunk', 'ednawey'], comment: 'Developers', password: "{{ 'test' | password_hash('sha512') }}", shell: /bin/bash }
+- {name: 'aim07', uid: 5557, groups: ['splunk', 'ednawey'], comment: 'Developers', password: "{{ 'test' | password_hash('sha512') }}", shell: /bin/bash }
+- {name: 'aim08', uid: 5558, groups: ['splunk', 'ednawey'], comment: 'Developers', password: "{{ 'test' | password_hash('sha512') }}", shell: /bin/bash }
+- {name: 'aim09', uid: 5559, groups: ['splunk', 'ednawey'], comment: 'Developers', password: "{{ 'test' | password_hash('sha512') }}", shell: /bin/bash }
+- {name: 'aim10', uid: 5510, groups: ['splunk', 'ednawey'], comment: 'Developers', password: "{{ 'test' | password_hash('sha512') }}", shell: /bin/bash }
